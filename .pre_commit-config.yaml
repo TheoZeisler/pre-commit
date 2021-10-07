@@ -5,4 +5,4 @@ repos:
         name: Run my tests
         entry: python
         language: system
-        args: [pre_commit_tests.py]
+        args: [pre_commit_test.py]
