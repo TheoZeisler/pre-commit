@@ -21,8 +21,6 @@ repos:
     stages: [commit-msg]
     args: [precommitmsg_test.py]
 
-
-
   - id: MyTests4
     name: Run my tests 4
     entry: python
